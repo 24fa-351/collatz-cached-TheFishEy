@@ -1,0 +1,24 @@
+Cache Policy	Cache Hit	Cache Miss	Cache Hit Rate
+LRU				18			9981		0.18%
+Cache Policy	Cache Hit	Cache Miss	Cache Hit Rate
+RR				14			9982		0.14%
+Cache Policy	Cache Hit	Cache Miss	Cache Hit Rate
+LRU				34			9962		0.34%
+Cache Policy	Cache Hit	Cache Miss	Cache Hit Rate
+RR				40			9959		0.40%
+Cache Policy	Cache Hit	Cache Miss	Cache Hit Rate
+Cache Policy	Cache Hit	Cache Miss	Cache Hit Rate
+LRU				89			9911		0.89%
+Cache Policy	Cache Hit	Cache Miss	Cache Hit Rate
+RR				94			9906		0.94%
+Cache Policy	Cache Hit	Cache Miss	Cache Hit Rate
+Cache Policy	Cache Hit	Cache Miss	Cache Hit Rate
+LRU				932			9068		9.32%
+Cache Policy	Cache Hit	Cache Miss	Cache Hit Rate
+RR				960			9040		9.60%
+Cache Policy	Cache Hit	Cache Miss	Cache Hit Rate
+Cache Policy	Cache Hit	Cache Miss	Cache Hit Rate
+LRU				197			9803		1.97%
+Cache Policy	Cache Hit	Cache Miss	Cache Hit Rate
+RR				189			9811		1.89%
+
